@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Oliver Woischnik",
+    "section": "",
+    "text": "This is my first blog where I will mainly document my journey in learning machine learning."
+  },
+  {
+    "objectID": "posts/my-first-post/index.html",
+    "href": "posts/my-first-post/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nI am writing this blog to document my journey in learning machine learning."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-blog",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2024\n\n\nOliver Woischnik\n\n\n\n\n\n\nNo matching items"
+  }
+]
