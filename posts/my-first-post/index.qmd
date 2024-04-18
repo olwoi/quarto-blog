@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Oliver Woischnik"
+date: "2024-04-18"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
+I am writing this blog to document my journey in learning machine learning.
